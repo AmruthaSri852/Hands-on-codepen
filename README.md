@@ -7,10 +7,9 @@ A pen is worth a thousand docs!
     So I started experimenting my codes at codepen and 
     will upload at Hands-on-codepen and explore as many as possible 
 ### Web Pages: 
-    Learning I figured out that HTML >> CSS >> JS and then mastering 3 
-    equally defines our skill as a front-end (in also making web pages)
-    And backend is like extensions of these three "the frameworks" etc etc 
-    Secret: front-end is more common among developers thesedays and 
-    backend deveplors are having salary perks considering the intricacy
+    Learning I figured out that HTML >> CSS >> JS and then mastering 3 equally defines our skill as a 
+    front-end (in also making web pages) And backend is like extensions of these three "the frameworks" etc etc 
+    Secret: front-end is more common among developers thesedays and backend deveplors are having salary 
+    perks considering the intricacy
     
     
